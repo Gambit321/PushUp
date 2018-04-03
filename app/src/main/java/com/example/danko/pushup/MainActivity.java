@@ -62,15 +62,16 @@ public class MainActivity extends AppCompatActivity {
 
       int e = 10;
 
+
+
+        int t=0;
       xy();
 
     }
 
     private void xy() {
 
-      int e=25;
 
-      int t=0;
     }
     private void Danko(){
         int dan=3;
