@@ -56,5 +56,7 @@ public class MainActivity extends AppCompatActivity {
 
       String a = "ok";
 
+      int r=0;
+
     }
 }
