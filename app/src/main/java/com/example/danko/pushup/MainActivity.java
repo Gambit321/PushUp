@@ -61,5 +61,10 @@ public class MainActivity extends AppCompatActivity {
       Boolean x = true;
 
       int e=25;
+
+      int t=0;
+    }
+    private void Danko(){
+        int dan=3;
     }
 }
