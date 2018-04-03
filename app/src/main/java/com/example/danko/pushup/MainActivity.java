@@ -60,5 +60,7 @@ public class MainActivity extends AppCompatActivity {
 
       Boolean x = true;
 
+      int e = 10;
+
     }
 }
