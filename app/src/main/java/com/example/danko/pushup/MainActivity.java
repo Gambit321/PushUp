@@ -58,5 +58,7 @@ public class MainActivity extends AppCompatActivity {
 
       int r=0;
 
+      Boolean x = true;
+
     }
 }
