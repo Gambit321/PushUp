@@ -52,14 +52,7 @@ public class MainActivity extends AppCompatActivity {
     private void TestUpload(){
       int i=1+1;
 
-      int ii=2+2;
+      int ii=23;
 
-      int iii=i+ii;
-      
-      int a=1+1;
-
-      int c=1+1;
-
-      int b=1+1;
     }
 }
